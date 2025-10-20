@@ -14,7 +14,7 @@ My repository is more like a sort of large meta-project, in which, at various po
 you can find interdependent subprojects that have their own trunk-tags-branches, as well as other material.
 
 
-## The simplest things are often the best
+## The simplest things are often the best
 
 I spent time and energy trying sophisticated manipulations. (See below.)
 None of them gave me a really satisfactory result.
